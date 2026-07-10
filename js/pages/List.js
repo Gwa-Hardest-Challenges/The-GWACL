@@ -100,34 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Your level <strong>must</strong> be under 30 seconds.
+                        No impossible levels
                     </p>
                     <p>
-                        Level must be harder than the level at the lowest spot on the list.
+                        Need video proof with clicks
                     </p>
                     <p>
                         No inappropriate levels, as this includes NSFW levels/videos.
-                    </p>
-                    <p>
-                        Your level must have some deco/effort put into it as of 23/03/2026 Australian.
-                    </p>
-                    <p>
-                        Spam challenges are allowed, however anything outside of alternating is not allowed.
-                    </p>
-                    <p>
-                        Secret ways are <strong>absolutely</strong> prohibited.
-                    </p>
-                    <p>
-                        If you beat one part of a level, you can cut the rest of that level off and leave it as a challenge that is verified, same goes with beating that part of the level, like a challenge swap.
-                    </p>
-                    <p>
-                        The level has to be in under 16 CPS. Anything above that will not be allowed,
-                    </p>
-                    <p>
-                        Noclip is allowed as long as you have 0 deaths or 100% Accuracy.
-                    </p>
-                    <p>
-                        Clicks must be heard. Click Sounds aren't allowed.
                     </p>
                      <p>
                         You have to be on the latest version of Geometry Dash in order to get your completions/verifications accepted.
